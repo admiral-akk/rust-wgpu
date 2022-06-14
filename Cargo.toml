@@ -13,6 +13,7 @@ path = "src/main.rs"
 
 [dependencies]
 cfg-if = "1"
+pollster = "0.2"
 winit = "0.26"
 env_logger = "0.9"
 log = "0.4"
